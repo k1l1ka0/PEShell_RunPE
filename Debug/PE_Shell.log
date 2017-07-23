@@ -1,0 +1,9 @@
+﻿  PE_Shell.cpp
+d:\windows\study\reversecore\dt\pe_shell\pe_shell\peoperation.h(193): warning C4018: “>=”: 有符号/无符号不匹配
+d:\windows\study\reversecore\dt\pe_shell\pe_shell\peoperation.h(250): warning C4018: “<”: 有符号/无符号不匹配
+d:\windows\study\reversecore\dt\pe_shell\pe_shell\pe_shell.cpp(31): warning C4244: “=”: 从“DWORD”转换到“char”，可能丢失数据
+d:\windows\study\reversecore\dt\pe_shell\pe_shell\pe_shell.cpp(62): warning C4244: “=”: 从“DWORD”转换到“char”，可能丢失数据
+d:\windows\study\reversecore\dt\pe_shell\pe_shell\pe_shell.cpp(82): warning C4101: “count”: 未引用的局部变量
+d:\windows\study\reversecore\dt\pe_shell\pe_shell\pe_shell.cpp(80): warning C4101: “dwImageBase”: 未引用的局部变量
+  PE_Shell.vcxproj -> D:\Windows\Study\ReverseCore\dt\PE_Shell\Debug\PE_Shell.exe
+  PE_Shell.vcxproj -> D:\Windows\Study\ReverseCore\dt\PE_Shell\Debug\PE_Shell.pdb (Full PDB)
